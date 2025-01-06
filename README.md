@@ -1,4 +1,4 @@
-<h2 align="center">Prototyped for User Interfaces in the Metaverse</h2>
+<h2 align="center">Prototyped for User Interfaces in Metaverse</h2>
 
 <div align="center">
 
@@ -113,9 +113,9 @@ Nesta seção, listaremos alguns dos erros mais comuns que os usuários podem en
 The following tools and technologies were used in the construction of the project:
 
 * Language C#
-* [Unity](https://unity.com/pt)
-* [Figma](https://figma.com/)
-* [Postman](https://www.postman.com/)
+* Unity 
+* Figma
+* Postman
 * API REST
 
 ## 📚 Documents Used
